@@ -53,7 +53,7 @@ public class MenuCheck extends PageBase{
 	@Test(priority=3,groups= {"smoke","Regression"})
 	public void test4(){
 		giftcards=home.clickGiftCard();
-		giftcards.getTitle("Gift Cards - Buy Gift Vouchers Online, Gift Vouchers | MakeMyTrip.com");
+		giftcards.getTitle("Buy Gift Cards & Vouchers Online from MakeMyTrip");
 		logger.log(Status.PASS, "Gift Cards Menu Verified");
 	}
 	

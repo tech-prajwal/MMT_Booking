@@ -8,6 +8,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+import org.openqa.selenium.support.ui.ExpectedConditions;
 
 import baseClasses.PageBase;
 import utilities.Screenshot;
@@ -25,13 +26,13 @@ public class Home extends PageBase{
 	@FindBy(xpath="//div[@data-cy='landingContainer']") 
 	public WebElement adLogin;  
  
-	@FindBy(xpath="//li[@data-cy='menu_Cabs']/a")
+	@FindBy(xpath ="(//*[text()='Cabs'])[1]")
 	public WebElement cabLink;
 
-	@FindBy(xpath="//li[@data-cy='menu_Hotels']/a")
+	@FindBy(xpath="(//*[text()='Hotels'])[1]")
 	public WebElement hotelLink;
 
-	@FindBy(xpath="//p[@data-cy='tertiaryRowTitle_Gift Cards']")
+	@FindBy(xpath="(//*[text()='Gift Cards'])[1]")
 	public WebElement giftCardLink;
 
 	//closes all alerts at the welcome page
@@ -39,7 +40,7 @@ public class Home extends PageBase{
 		adLogin.click();
 		logger.info("Alerts closed successfully");
 	}
-
+	
 	//clicking on cabs link
 	public CabsHome clickCab() {
 		cabLink.click();
@@ -61,9 +62,14 @@ public class Home extends PageBase{
 		giftCardLink.click();
 		logger.info("Clicked on GiftCards");
 		//Switching to newly opened Tab
-		ArrayList<String> wid = new ArrayList<String>(driver.getWindowHandles());
-		driver.switchTo().window(wid.get(1));
-		getTitle("Gift Cards - Buy Gift Vouchers Online, Gift Vouchers | MakeMyTrip.com");
+//		ArrayList<String> wid = new ArrayList<String>(driver.getWindowHandles());
+//		driver.switchTo().window(wid.get(1));
+		ArrayList<String> windowHandles = new ArrayList<String>(driver.getWindowHandles());
+        if (windowHandles.size() > 1) {
+            driver.switchTo().window(windowHandles.get(1));
+        } else {
+            System.out.println("There is only one window open.");
+        }
 		return PageFactory.initElements(driver, GiftCards.class);
 	}
 }

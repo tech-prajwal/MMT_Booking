@@ -68,3 +68,127 @@
 2024-09-15T18:00:46,309  INFO [main] PageBase:76 - Driver invoked successfully
 2024-09-15T18:00:48,478  INFO [main] PageBase:88 - Navigated to 'Make My Trip' website
 2024-09-15T18:00:48,573  INFO [main] Home:40 - Alerts closed successfully
+2024-09-15T18:41:01,563  INFO [main] PageBase:74 - Driver invoked successfully
+2024-09-15T18:41:03,868  INFO [main] PageBase:86 - Navigated to 'Make My Trip' website
+2024-09-15T18:41:03,981  INFO [main] Home:40 - Alerts closed successfully
+2024-09-15T18:41:04,009  INFO [main] PageBase:97 - Page title Verified
+2024-09-15T18:44:00,356  INFO [main] PageBase:74 - Driver invoked successfully
+2024-09-15T18:44:02,652  INFO [main] PageBase:86 - Navigated to 'Make My Trip' website
+2024-09-15T18:44:02,766  INFO [main] Home:40 - Alerts closed successfully
+2024-09-15T18:44:02,798  INFO [main] PageBase:97 - Page title Verified
+2024-09-15T18:47:19,908  INFO [main] PageBase:74 - Driver invoked successfully
+2024-09-15T18:47:20,786  INFO [main] PageBase:86 - Navigated to 'Make My Trip' website
+2024-09-15T18:47:22,075  INFO [main] Home:40 - Alerts closed successfully
+2024-09-15T18:47:22,100  INFO [main] PageBase:97 - Page title Verified
+2024-09-15T18:47:42,266  INFO [main] Home:62 - Clicked on GiftCards
+2024-09-15T18:53:33,101  INFO [main] PageBase:74 - Driver invoked successfully
+2024-09-15T18:53:35,089  INFO [main] PageBase:86 - Navigated to 'Make My Trip' website
+2024-09-15T18:53:35,203  INFO [main] Home:40 - Alerts closed successfully
+2024-09-15T18:53:35,227  INFO [main] PageBase:97 - Page title Verified
+2024-09-15T18:53:35,325  INFO [main] Home:55 - Clicked on Hotels
+2024-09-15T18:53:35,332  INFO [main] PageBase:97 - Page title Verified
+2024-09-15T18:55:45,905  INFO [main] PageBase:74 - Driver invoked successfully
+2024-09-15T18:55:47,150  INFO [main] PageBase:86 - Navigated to 'Make My Trip' website
+2024-09-15T18:55:48,315  INFO [main] Home:40 - Alerts closed successfully
+2024-09-15T18:55:48,343  INFO [main] PageBase:97 - Page title Verified
+2024-09-15T18:55:48,436  INFO [main] Home:55 - Clicked on Hotels
+2024-09-15T18:55:48,444  INFO [main] PageBase:97 - Page title Verified
+2024-09-15T18:57:34,988  INFO [main] PageBase:74 - Driver invoked successfully
+2024-09-15T18:57:36,003  INFO [main] PageBase:86 - Navigated to 'Make My Trip' website
+2024-09-15T18:57:37,122  INFO [main] Home:40 - Alerts closed successfully
+2024-09-15T18:57:37,151  INFO [main] PageBase:97 - Page title Verified
+2024-09-15T18:57:37,245  INFO [main] Home:55 - Clicked on Hotels
+2024-09-15T18:57:37,254  INFO [main] PageBase:97 - Page title Verified
+2024-09-15T18:57:37,427  INFO [main] Home:46 - Clicked on Cabs
+2024-09-15T18:57:37,472  INFO [main] PageBase:97 - Page title Verified
+2024-09-15T19:02:26,730  INFO [main] PageBase:74 - Driver invoked successfully
+2024-09-15T19:02:27,659  INFO [main] PageBase:86 - Navigated to 'Make My Trip' website
+2024-09-15T19:02:29,078  INFO [main] Home:40 - Alerts closed successfully
+2024-09-15T19:02:29,111  INFO [main] PageBase:97 - Page title Verified
+2024-09-15T19:02:29,217  INFO [main] Home:55 - Clicked on Hotels
+2024-09-15T19:02:29,225  INFO [main] PageBase:97 - Page title Verified
+2024-09-15T19:02:29,366  INFO [main] Home:46 - Clicked on Cabs
+2024-09-15T19:02:29,375  INFO [main] PageBase:97 - Page title Verified
+2024-09-15T19:04:26,377  INFO [main] PageBase:74 - Driver invoked successfully
+2024-09-15T19:04:27,256  INFO [main] PageBase:86 - Navigated to 'Make My Trip' website
+2024-09-15T19:04:28,441  INFO [main] Home:40 - Alerts closed successfully
+2024-09-15T19:04:28,464  INFO [main] PageBase:97 - Page title Verified
+2024-09-15T19:04:28,565  INFO [main] Home:55 - Clicked on Hotels
+2024-09-15T19:04:28,572  INFO [main] PageBase:97 - Page title Verified
+2024-09-15T19:04:28,709  INFO [main] Home:46 - Clicked on Cabs
+2024-09-15T19:04:28,719  INFO [main] PageBase:97 - Page title Verified
+2024-09-15T19:04:29,701  INFO [main] Home:62 - Clicked on GiftCards
+2024-09-15T19:07:31,048  INFO [main] PageBase:74 - Driver invoked successfully
+2024-09-15T19:07:33,053  INFO [main] PageBase:86 - Navigated to 'Make My Trip' website
+2024-09-15T19:07:33,155  INFO [main] Home:40 - Alerts closed successfully
+2024-09-15T19:07:33,187  INFO [main] PageBase:97 - Page title Verified
+2024-09-15T19:07:33,284  INFO [main] Home:55 - Clicked on Hotels
+2024-09-15T19:07:33,290  INFO [main] PageBase:97 - Page title Verified
+2024-09-15T19:07:33,428  INFO [main] Home:46 - Clicked on Cabs
+2024-09-15T19:07:33,438  INFO [main] PageBase:97 - Page title Verified
+2024-09-15T19:13:48,761  INFO [main] PageBase:77 - Driver invoked successfully
+2024-09-15T19:13:49,574  INFO [main] PageBase:89 - Navigated to 'Make My Trip' website
+2024-09-15T19:13:50,944  INFO [main] Home:40 - Alerts closed successfully
+2024-09-15T19:13:50,969  INFO [main] PageBase:100 - Page title Verified
+2024-09-15T19:13:52,188  INFO [main] Home:63 - Clicked on GiftCards
+2024-09-15T19:14:41,544  INFO [main] PageBase:77 - Driver invoked successfully
+2024-09-15T19:14:43,569  INFO [main] PageBase:89 - Navigated to 'Make My Trip' website
+2024-09-15T19:14:43,680  INFO [main] Home:40 - Alerts closed successfully
+2024-09-15T19:14:43,706  INFO [main] PageBase:100 - Page title Verified
+2024-09-15T19:16:40,453  INFO [main] PageBase:77 - Driver invoked successfully
+2024-09-15T19:16:41,255  INFO [main] PageBase:89 - Navigated to 'Make My Trip' website
+2024-09-15T19:16:41,966  INFO [main] Home:40 - Alerts closed successfully
+2024-09-15T19:16:42,052  INFO [main] PageBase:100 - Page title Verified
+2024-09-15T19:17:13,068  INFO [main] PageBase:77 - Driver invoked successfully
+2024-09-15T19:17:15,245  INFO [main] PageBase:89 - Navigated to 'Make My Trip' website
+2024-09-15T19:17:15,361  INFO [main] Home:41 - Alerts closed successfully
+2024-09-15T19:17:15,386  INFO [main] PageBase:100 - Page title Verified
+2024-09-15T19:20:28,972  INFO [main] PageBase:77 - Driver invoked successfully
+2024-09-15T19:20:29,814  INFO [main] PageBase:89 - Navigated to 'Make My Trip' website
+2024-09-15T19:20:31,027  INFO [main] Home:41 - Alerts closed successfully
+2024-09-15T19:20:31,056  INFO [main] PageBase:100 - Page title Verified
+2024-09-15T19:20:31,146  INFO [main] Home:58 - Clicked on Hotels
+2024-09-15T19:20:31,153  INFO [main] PageBase:100 - Page title Verified
+2024-09-15T19:20:32,274  INFO [main] Home:66 - Clicked on GiftCards
+2024-09-15T19:20:58,335  INFO [main] PageBase:77 - Driver invoked successfully
+2024-09-15T19:20:59,235  INFO [main] PageBase:89 - Navigated to 'Make My Trip' website
+2024-09-15T19:21:00,430  INFO [main] Home:41 - Alerts closed successfully
+2024-09-15T19:21:00,456  INFO [main] PageBase:100 - Page title Verified
+2024-09-15T19:21:51,349  INFO [main] PageBase:77 - Driver invoked successfully
+2024-09-15T19:21:52,162  INFO [main] PageBase:89 - Navigated to 'Make My Trip' website
+2024-09-15T19:21:53,444  INFO [main] Home:41 - Alerts closed successfully
+2024-09-15T19:21:53,473  INFO [main] PageBase:100 - Page title Verified
+2024-09-15T19:21:53,571  INFO [main] Home:56 - Clicked on Hotels
+2024-09-15T19:21:53,578  INFO [main] PageBase:100 - Page title Verified
+2024-09-15T19:21:53,719  INFO [main] Home:47 - Clicked on Cabs
+2024-09-15T19:21:53,770  INFO [main] PageBase:100 - Page title Verified
+2024-09-15T19:21:54,812  INFO [main] Home:63 - Clicked on GiftCards
+2024-09-15T19:23:18,060  INFO [main] PageBase:77 - Driver invoked successfully
+2024-09-15T19:23:18,991  INFO [main] PageBase:89 - Navigated to 'Make My Trip' website
+2024-09-15T19:23:20,269  INFO [main] Home:41 - Alerts closed successfully
+2024-09-15T19:23:20,298  INFO [main] PageBase:100 - Page title Verified
+2024-09-15T19:23:20,402  INFO [main] Home:56 - Clicked on Hotels
+2024-09-15T19:23:20,410  INFO [main] PageBase:100 - Page title Verified
+2024-09-15T19:23:20,549  INFO [main] Home:47 - Clicked on Cabs
+2024-09-15T19:23:20,561  INFO [main] PageBase:100 - Page title Verified
+2024-09-15T19:23:21,613  INFO [main] Home:63 - Clicked on GiftCards
+2024-09-15T19:25:20,489  INFO [main] PageBase:77 - Driver invoked successfully
+2024-09-15T19:25:21,604  INFO [main] PageBase:77 - Driver invoked successfully
+2024-09-15T19:25:22,813  INFO [main] PageBase:89 - Navigated to 'Make My Trip' website
+2024-09-15T19:25:22,833  INFO [main] PageBase:89 - Navigated to 'Make My Trip' website
+2024-09-15T19:25:22,992  INFO [main] Home:41 - Alerts closed successfully
+2024-09-15T19:25:23,030  INFO [main] PageBase:100 - Page title Verified
+2024-09-15T19:25:23,161  INFO [main] Home:56 - Clicked on Hotels
+2024-09-15T19:25:23,189  INFO [main] PageBase:100 - Page title Verified
+2024-09-15T19:25:23,394  INFO [main] Home:47 - Clicked on Cabs
+2024-09-15T19:25:23,487  INFO [main] PageBase:100 - Page title Verified
+2024-09-15T19:25:24,252  INFO [main] Home:41 - Alerts closed successfully
+2024-09-15T19:25:24,293  INFO [main] PageBase:100 - Page title Verified
+2024-09-15T19:25:24,423  INFO [main] Home:56 - Clicked on Hotels
+2024-09-15T19:25:24,431  INFO [main] PageBase:100 - Page title Verified
+2024-09-15T19:25:24,559  INFO [main] Home:63 - Clicked on GiftCards
+2024-09-15T19:25:24,604  INFO [main] Home:47 - Clicked on Cabs
+2024-09-15T19:25:24,622  INFO [main] PageBase:100 - Page title Verified
+2024-09-15T19:25:24,671  INFO [main] PageBase:100 - Page title Verified
+2024-09-15T19:25:25,688  INFO [main] Home:63 - Clicked on GiftCards
+2024-09-15T19:25:25,700  INFO [main] PageBase:100 - Page title Verified

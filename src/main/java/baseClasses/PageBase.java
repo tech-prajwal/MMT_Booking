@@ -16,6 +16,8 @@ import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
@@ -26,6 +28,7 @@ import pages.Home;
 public class PageBase {
 
 	public static WebDriver driver; 
+	public WebDriverWait wait;
 	public Properties prop;
 	Logger log = LogManager.getLogger(PageBase.class);
 
@@ -97,7 +100,7 @@ public class PageBase {
 		log.info("Page title Verified");
 
 	}	
-
+	
 	//method to open GiftCards page
 	public GiftCards OpenApplication3() {
 		driver.get("https://www.makemytrip.com/gift-cards/");

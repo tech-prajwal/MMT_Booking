@@ -1,78 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
-  <test verbose="2" name="Default test">
-    <classes>
-      <class name="pages.GiftCards"/>
-      <class name="testScenarioFour.GiftCardVerify"/>
-      <class name="pages.CabsSearch"/>
-      <class name="pages.HotelsHome"/>
-      <class name="pages.Home"/>
-      <class name="testScenarioSix.HotelDetails"/>
-      <class name="baseClasses.PageBase"/>
-      <class name="testScenarioFive.FormCheckInvalid"/>
-      <class name="testScenarioOne.MenuCheck"/>
-      <class name="testScenarioFive.FormCheck"/>
-      <class name="pages.CabsHome"/>
-      <class name="pages.Payments"/>
-      <class name="utilities.ReadWriteExcel"/>
-      <class name="utilities.Screenshot"/>
-      <class name="pages.GiftCardsCorporate"/>
-      <class name="utilities.ExtentReport"/>
-      <class name="testScenarioTwoThree.CabsDataValidation"/>
-    </classes>
-  </test> <!-- Default test -->
-  <test name="Default test(failed)">
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
     <classes>
       <class name="testScenarioOne.MenuCheck">
         <methods>
-          <include name="closeBrowser"/>
           <include name="invokeBrowser"/>
+          <include name="test4"/>
+          <include name="closeBrowser"/>
         </methods>
       </class> <!-- testScenarioOne.MenuCheck -->
-      <class name="testScenarioFive.FormCheck">
-        <methods>
-          <include name="closeBrowser"/>
-          <include name="invokeBrowser"/>
-        </methods>
-      </class> <!-- testScenarioFive.FormCheck -->
-      <class name="testScenarioSix.HotelDetails">
-        <methods>
-          <include name="invokeBrowser"/>
-          <include name="test32"/>
-          <include name="closeBrowser"/>
-        </methods>
-      </class> <!-- testScenarioSix.HotelDetails -->
-      <class name="testScenarioTwoThree.CabsDataValidation">
-        <methods>
-          <include name="test7"/>
-          <include name="test8"/>
-          <include name="test9"/>
-          <include name="test19"/>
-          <include name="test18"/>
-          <include name="test17"/>
-          <include name="invokeBrowser"/>
-          <include name="test10"/>
-          <include name="test20"/>
-          <include name="test16"/>
-          <include name="test15"/>
-          <include name="test13"/>
-          <include name="closeBrowser"/>
-        </methods>
-      </class> <!-- testScenarioTwoThree.CabsDataValidation -->
-      <class name="testScenarioFour.GiftCardVerify">
-        <methods>
-          <include name="test23"/>
-          <include name="invokeBrowser"/>
-          <include name="closeBrowser"/>
-        </methods>
-      </class> <!-- testScenarioFour.GiftCardVerify -->
-      <class name="testScenarioFive.FormCheckInvalid">
-        <methods>
-          <include name="closeBrowser"/>
-          <include name="invokeBrowser"/>
-        </methods>
-      </class> <!-- testScenarioFive.FormCheckInvalid -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
