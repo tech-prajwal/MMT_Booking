@@ -192,3 +192,13 @@
 2024-09-15T19:25:24,671  INFO [main] PageBase:100 - Page title Verified
 2024-09-15T19:25:25,688  INFO [main] Home:63 - Clicked on GiftCards
 2024-09-15T19:25:25,700  INFO [main] PageBase:100 - Page title Verified
+2024-09-15T19:27:48,457  INFO [main] PageBase:77 - Driver invoked successfully
+2024-09-15T19:27:50,471  INFO [main] PageBase:89 - Navigated to 'Make My Trip' website
+2024-09-15T19:27:50,615  INFO [main] Home:41 - Alerts closed successfully
+2024-09-15T19:27:50,641  INFO [main] PageBase:100 - Page title Verified
+2024-09-15T19:27:50,748  INFO [main] Home:56 - Clicked on Hotels
+2024-09-15T19:27:50,756  INFO [main] PageBase:100 - Page title Verified
+2024-09-15T19:27:50,911  INFO [main] Home:47 - Clicked on Cabs
+2024-09-15T19:27:50,920  INFO [main] PageBase:100 - Page title Verified
+2024-09-15T19:27:52,001  INFO [main] Home:63 - Clicked on GiftCards
+2024-09-15T19:27:52,010  INFO [main] PageBase:100 - Page title Verified

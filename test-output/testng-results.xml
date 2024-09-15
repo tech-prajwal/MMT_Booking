@@ -2,7 +2,7 @@
 <testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-09-15T19:25:19 IST" name="Default suite" finished-at="2024-09-15T19:25:26 IST" duration-ms="6376">
+  <suite started-at="2024-09-15T19:27:47 IST" name="Default suite" finished-at="2024-09-15T19:27:52 IST" duration-ms="5397">
     <groups>
       <group name="Regression">
         <method signature="MenuCheck.test1()[pri:0, instance:testScenarioOne.MenuCheck@6bb7cce7]" name="test1" class="testScenarioOne.MenuCheck"/>
@@ -17,29 +17,29 @@
         <method signature="MenuCheck.test4()[pri:3, instance:testScenarioOne.MenuCheck@6bb7cce7]" name="test4" class="testScenarioOne.MenuCheck"/>
       </group> <!-- smoke -->
     </groups>
-    <test started-at="2024-09-15T19:25:19 IST" name="Default test" finished-at="2024-09-15T19:25:26 IST" duration-ms="6376">
+    <test started-at="2024-09-15T19:27:47 IST" name="Default test" finished-at="2024-09-15T19:27:52 IST" duration-ms="5397">
       <class name="testScenarioOne.MenuCheck">
-        <test-method is-config="true" signature="invokeBrowser()[pri:0, instance:testScenarioOne.MenuCheck@6bb7cce7]" started-at="2024-09-15T19:25:20 IST" name="invokeBrowser" finished-at="2024-09-15T19:25:24 IST" duration-ms="4252" status="PASS">
+        <test-method is-config="true" signature="invokeBrowser()[pri:0, instance:testScenarioOne.MenuCheck@6bb7cce7]" started-at="2024-09-15T19:27:47 IST" name="invokeBrowser" finished-at="2024-09-15T19:27:50 IST" duration-ms="3447" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- invokeBrowser -->
-        <test-method signature="test1()[pri:0, instance:testScenarioOne.MenuCheck@6bb7cce7]" started-at="2024-09-15T19:25:24 IST" name="test1" finished-at="2024-09-15T19:25:24 IST" duration-ms="37" status="PASS">
+        <test-method signature="test1()[pri:0, instance:testScenarioOne.MenuCheck@6bb7cce7]" started-at="2024-09-15T19:27:50 IST" name="test1" finished-at="2024-09-15T19:27:50 IST" duration-ms="20" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method signature="test2()[pri:1, instance:testScenarioOne.MenuCheck@6bb7cce7]" started-at="2024-09-15T19:25:24 IST" name="test2" finished-at="2024-09-15T19:25:24 IST" duration-ms="126" status="PASS">
+        <test-method signature="test2()[pri:1, instance:testScenarioOne.MenuCheck@6bb7cce7]" started-at="2024-09-15T19:27:50 IST" name="test2" finished-at="2024-09-15T19:27:50 IST" duration-ms="109" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test2 -->
-        <test-method signature="test3()[pri:2, instance:testScenarioOne.MenuCheck@6bb7cce7]" started-at="2024-09-15T19:25:24 IST" name="test3" finished-at="2024-09-15T19:25:24 IST" duration-ms="239" status="PASS">
+        <test-method signature="test3()[pri:2, instance:testScenarioOne.MenuCheck@6bb7cce7]" started-at="2024-09-15T19:27:50 IST" name="test3" finished-at="2024-09-15T19:27:50 IST" duration-ms="164" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test3 -->
-        <test-method signature="test4()[pri:3, instance:testScenarioOne.MenuCheck@6bb7cce7]" started-at="2024-09-15T19:25:24 IST" name="test4" finished-at="2024-09-15T19:25:25 IST" duration-ms="1027" status="PASS">
+        <test-method signature="test4()[pri:3, instance:testScenarioOne.MenuCheck@6bb7cce7]" started-at="2024-09-15T19:27:50 IST" name="test4" finished-at="2024-09-15T19:27:52 IST" duration-ms="1088" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test4 -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testScenarioOne.MenuCheck@6bb7cce7]" started-at="2024-09-15T19:25:25 IST" name="closeBrowser" finished-at="2024-09-15T19:25:26 IST" duration-ms="654" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testScenarioOne.MenuCheck@6bb7cce7]" started-at="2024-09-15T19:27:52 IST" name="closeBrowser" finished-at="2024-09-15T19:27:52 IST" duration-ms="539" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
