@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="none">
+  <test name="Test1">
+    <classes>
+      <class name="testScenarioOne.MenuCheck"/>
+    </classes>
+  </test> <!-- Test1 -->
+  <test name="Test2_3">
+    <classes>
+      <class name="testScenarioTwoThree.CabsDataValidation"/>
+    </classes>
+  </test> <!-- Test2_3 -->
+  <test name="Test4">
+    <classes>
+      <class name="testScenarioFour.GiftCardVerify"/>
+    </classes>
+  </test> <!-- Test4 -->
+  <test name="Test5">
+    <classes>
+      <class name="testScenarioFive.FormCheck"/>
+      <class name="testScenarioFive.FormCheckInvalid"/>
+    </classes>
+  </test> <!-- Test5 -->
+  <test name="Test6">
+    <classes>
+      <class name="testScenarioSix.HotelDetails"/>
+    </classes>
+  </test> <!-- Test6 -->
+</suite> <!-- Failed suite [Suite] -->

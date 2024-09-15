@@ -1,0 +1,70 @@
+2022-03-19 18:01:59,482  INFO [main] Home:38 - Alerts closed successfully
+2022-03-19 18:01:59,704  INFO [main] Home:53 - Clicked on Hotels
+2022-03-19 18:02:00,029  INFO [main] Home:44 - Clicked on Cabs
+2022-03-19 18:02:00,735  INFO [main] Home:60 - Clicked on GiftCards
+2022-03-19 18:02:11,241  INFO [main] Home:38 - Alerts closed successfully
+2022-03-19 18:02:11,429  INFO [main] Home:44 - Clicked on Cabs
+2022-03-19 18:02:12,072  INFO [main] CabsHome:91 - Radio Button is Verified
+2022-03-19 18:02:12,255  INFO [main] CabsHome:100 - From City Clikcked
+2022-03-19 18:02:13,316  INFO [main] CabsHome:103 - From Text Box is Active
+2022-03-19 18:02:15,426  INFO [main] CabsHome:115 - Selected city from suggessions
+2022-03-19 18:02:15,525  INFO [main] CabsHome:124 - To City Clikcked
+2022-03-19 18:02:16,562  INFO [main] CabsHome:127 - To Text Box is Active
+2022-03-19 18:02:17,870  INFO [main] CabsHome:139 - Selected city from suggessions
+2022-03-19 18:02:18,995  INFO [main] CabsHome:150 - Calendar is Displayed
+2022-03-19 18:02:19,146  INFO [main] CabsHome:161 - Date selected
+2022-03-19 18:02:24,188  INFO [main] CabsHome:172 - Text under return menu is verified
+2022-03-19 18:02:25,375  INFO [main] CabsHome:184 - Time dropdown is displyed
+2022-03-19 18:02:26,483  INFO [main] CabsHome:198 - Time selected as:06:00 AM
+2022-03-19 18:02:30,814  INFO [main] CabsHome:208 - Search clicked
+2022-03-19 18:02:37,539  INFO [main] CabsSearch:44 - Sort by filter is present
+2022-03-19 18:02:37,749  INFO [main] CabsSearch:54 - Filter applied: 'Lowest to Highest Price'
+2022-03-19 18:02:37,779  INFO [main] CabsSearch:63 - Cab Type Filter is available
+2022-03-19 18:02:37,962  INFO [main] CabsSearch:73 - Filter applied: 'SUV'
+2022-03-19 18:02:49,491  INFO [main] Home:38 - Alerts closed successfully
+2022-03-19 18:02:49,685  INFO [main] Home:60 - Clicked on GiftCards
+2022-03-19 18:02:52,692  INFO [main] GiftCards:31 - Category filter is available
+2022-03-19 18:02:52,878  INFO [main] GiftCards:41 - Filter applied: Corporate
+2022-03-19 18:03:02,661  INFO [main] Home:38 - Alerts closed successfully
+2022-03-19 18:03:02,827  INFO [main] Home:60 - Clicked on GiftCards
+2022-03-19 18:03:06,094  INFO [main] GiftCards:41 - Filter applied: Corporate
+2022-03-19 18:03:06,894  INFO [main] GiftCardsCorporate:78 - Clicked on E-mail button
+2022-03-19 18:03:07,123  INFO [main] GiftCardsCorporate:88 - Entered detail in name textbox
+2022-03-19 18:03:10,251  INFO [main] GiftCardsCorporate:99 - Entered detail in sender name textbox
+2022-03-19 18:03:11,394  INFO [main] GiftCardsCorporate:110 - Entered detail in mobile no textbox
+2022-03-19 18:03:12,539  INFO [main] GiftCardsCorporate:113 - Entered detail in sender mobile no textbox
+2022-03-19 18:03:13,702  INFO [main] GiftCardsCorporate:124 - Entered detail in email textbox
+2022-03-19 18:03:14,922  INFO [main] GiftCardsCorporate:127 - Entered detail in senders email textbox
+2022-03-19 18:03:16,144  INFO [main] GiftCardsCorporate:130 - Entered detail in Gift message textbox
+2022-03-19 18:03:17,268  INFO [main] GiftCardsCorporate:133 - Clicked on Buy Now
+2022-03-19 18:03:39,126  INFO [main] Screenshot:38 - Screenshot of Date-Time Captured
+2022-03-19 18:03:39,170  INFO [main] GiftCardsCorporate:164 - Error message:Please enter a valid Email id.
+2022-03-19 18:03:47,577  INFO [main] Home:38 - Alerts closed successfully
+2022-03-19 18:03:47,772  INFO [main] Home:53 - Clicked on Hotels
+2022-03-19 18:03:48,132  INFO [main] HotelsHome:30 - Clicked on room
+2022-03-19 18:03:48,290  INFO [main] HotelsHome:36 - Drop down verified
+2024-09-15T17:56:22,132 ERROR [main] PageBase:69 - Unable to invoke Driver
+2024-09-15T17:56:22,920 ERROR [main] PageBase:69 - Unable to invoke Driver
+2024-09-15T17:56:23,698 ERROR [main] PageBase:69 - Unable to invoke Driver
+2024-09-15T17:56:24,405 ERROR [main] PageBase:69 - Unable to invoke Driver
+2024-09-15T17:56:25,154 ERROR [main] PageBase:69 - Unable to invoke Driver
+2024-09-15T17:56:25,903 ERROR [main] PageBase:69 - Unable to invoke Driver
+2024-09-15T17:59:00,271  INFO [main] PageBase:76 - Driver invoked successfully
+2024-09-15T17:59:02,596  INFO [main] PageBase:88 - Navigated to 'Make My Trip' website
+2024-09-15T17:59:02,709  INFO [main] Home:40 - Alerts closed successfully
+2024-09-15T17:59:02,732  INFO [main] PageBase:99 - Page title Verified
+2024-09-15T18:00:02,964  INFO [main] Home:62 - Clicked on GiftCards
+2024-09-15T18:00:05,107  INFO [main] PageBase:76 - Driver invoked successfully
+2024-09-15T18:00:06,197  INFO [main] PageBase:88 - Navigated to 'Make My Trip' website
+2024-09-15T18:00:07,416  INFO [main] Home:40 - Alerts closed successfully
+2024-09-15T18:00:38,192  INFO [main] PageBase:76 - Driver invoked successfully
+2024-09-15T18:00:40,304  INFO [main] PageBase:88 - Navigated to 'Make My Trip' website
+2024-09-15T18:00:40,397  INFO [main] Home:40 - Alerts closed successfully
+2024-09-15T18:00:40,484  INFO [main] Home:62 - Clicked on GiftCards
+2024-09-15T18:00:42,385  INFO [main] PageBase:76 - Driver invoked successfully
+2024-09-15T18:00:44,452  INFO [main] PageBase:88 - Navigated to 'Make My Trip' website
+2024-09-15T18:00:44,546  INFO [main] Home:40 - Alerts closed successfully
+2024-09-15T18:00:44,633  INFO [main] Home:62 - Clicked on GiftCards
+2024-09-15T18:00:46,309  INFO [main] PageBase:76 - Driver invoked successfully
+2024-09-15T18:00:48,478  INFO [main] PageBase:88 - Navigated to 'Make My Trip' website
+2024-09-15T18:00:48,573  INFO [main] Home:40 - Alerts closed successfully

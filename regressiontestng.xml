@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite1">
+	<test name="Test1">
+		<groups>
+			<run>
+				<include name="Regression">
+				</include>
+			</run>
+		</groups>
+		<classes>
+			<class name="testScenarioOne.MenuCheck" />
+		</classes>
+	</test>
+	<test name="Test2">
+		<groups>
+			<run>
+				<include name="Regression">
+				</include>
+			</run>
+		</groups>
+		<classes>
+			<class name="testScenarioTwoThree.CabsDataValidation" />
+		</classes>
+	</test>
+	<test name="Test3">
+		<groups>
+			<run>
+				<include name="Regression">
+				</include>
+			</run>
+		</groups>
+		<classes>
+			<class name="testScenarioFour.GiftCardVerify" />
+		</classes>
+	</test>
+	<test name="Test4">
+		<groups>
+			<run>
+				<include name="Regression">
+				</include>
+			</run>
+		</groups>
+		<classes>
+			<class name="testScenarioFive.FormCheck" />
+			<class name="testScenarioFive.FormCheckInvalid" />
+		</classes>
+	</test>
+	<test name="Test5">
+		<groups>
+			<run>
+				<include name="Regression">
+				</include>
+			</run>
+		</groups>
+		<classes>
+			<class name="testScenarioSix.HotelDetails" />
+		</classes>
+	</test>
+	<!-- Test -->
+</suite> <!-- Suite -->

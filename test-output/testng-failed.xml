@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite1]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test1(failed)">
+    <groups>
+      <run>
+        <include name="smoke"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="testScenarioOne.MenuCheck">
+        <methods>
+          <include name="invokeBrowser"/>
+          <include name="test3"/>
+          <include name="test4"/>
+          <include name="test2"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- testScenarioOne.MenuCheck -->
+    </classes>
+  </test> <!-- Test1(failed) -->
+  <test thread-count="5" name="Test2(failed)">
+    <groups>
+      <run>
+        <include name="smoke"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="testScenarioTwoThree.CabsDataValidation">
+        <methods>
+          <include name="test13"/>
+          <include name="test18"/>
+          <include name="test6"/>
+          <include name="invokeBrowser"/>
+          <include name="test12"/>
+          <include name="closeBrowser"/>
+          <include name="test10"/>
+          <include name="test8"/>
+          <include name="test5"/>
+          <include name="test16"/>
+          <include name="test15"/>
+          <include name="test14"/>
+        </methods>
+      </class> <!-- testScenarioTwoThree.CabsDataValidation -->
+    </classes>
+  </test> <!-- Test2(failed) -->
+  <test thread-count="5" name="Test3(failed)">
+    <groups>
+      <run>
+        <include name="smoke"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="testScenarioFour.GiftCardVerify">
+        <methods>
+          <include name="test21"/>
+          <include name="test22"/>
+          <include name="test23"/>
+          <include name="closeBrowser"/>
+          <include name="invokeBrowser"/>
+        </methods>
+      </class> <!-- testScenarioFour.GiftCardVerify -->
+    </classes>
+  </test> <!-- Test3(failed) -->
+  <test thread-count="5" name="Test4(failed)">
+    <groups>
+      <run>
+        <include name="smoke"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="testScenarioFive.FormCheck">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="test24"/>
+          <include name="invokeBrowser"/>
+        </methods>
+      </class> <!-- testScenarioFive.FormCheck -->
+    </classes>
+  </test> <!-- Test4(failed) -->
+  <test thread-count="5" name="Test5(failed)">
+    <groups>
+      <run>
+        <include name="smoke"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="testScenarioSix.HotelDetails">
+        <methods>
+          <include name="test30"/>
+          <include name="invokeBrowser"/>
+          <include name="closeBrowser"/>
+          <include name="test31"/>
+        </methods>
+      </class> <!-- testScenarioSix.HotelDetails -->
+    </classes>
+  </test> <!-- Test5(failed) -->
+</suite> <!-- Failed suite [Suite1] -->
